@@ -56,12 +56,12 @@ MCBotLauncher is a sophisticated GUI application for launching Minecraft bots wi
 
 ### Disclaimer
 
-Disclaimer: This tool is intended for educational purposes only. It is designed to be used by server administrators to test the robustness and security of their own servers. Any unauthorized use of this tool on servers you do not own or have permission to test is strictly prohibited. The author does not consent to any malicious use of this tool and is not responsible for any damages caused by improper use.
+**Disclaimer:** This tool is intended for educational purposes only. It is designed to be used by server administrators to test the robustness and security of their own servers. Any unauthorized use of this tool on servers you do not own or have permission to test is strictly prohibited. The author does not consent to any malicious use of this tool and is not responsible for any damages caused by improper use.
 
 
 ### Acknowledgements
-- #Launch4j for wrapping Java applications into Windows native executables.
-- #Minecraft for the game platform.
+- **Launch4j** for wrapping Java applications into Windows native executables.
+- **Minecraft** for the game platform.
 
 
 
