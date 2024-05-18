@@ -42,7 +42,7 @@ MCBotLauncher is a sophisticated GUI application for launching Minecraft bots wi
 
 ## Usage
 
-1. **Launch the Application**: Double-click `MCBotLauncher.exe` to open the application.
+1. **Launch the Application**: Double-click `MCBot.exe` to open the application.
 2. **Configure Settings**:
     - **Server Details**: Enter the target server's `IP:PORT`.
     - **Minecraft Protocol**: Select the appropriate protocol version.
