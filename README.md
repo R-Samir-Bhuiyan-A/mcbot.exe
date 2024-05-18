@@ -38,7 +38,7 @@ MCBotLauncher is a sophisticated GUI application for launching Minecraft bots wi
 
 1. **Download the Executable**: Get the latest release from the [Releases]([https://github.com/R-Samir-Bhuiyan-A/mcbot.exe/releases) page.
 2. **Extract the Files**: Unzip the downloaded file to a directory of your choice.
-3. **Run the Installer** (optional): If provided, run `setup.exe` to install MCBotLauncher on your system.
+
 
 ## Usage
 
