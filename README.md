@@ -17,14 +17,7 @@ MCBotLauncher is a sophisticated GUI application for launching Minecraft bots wi
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
-- [Advanced Features](#advanced-features)
-  - [Proxy Support](#proxy-support)
-  - [Customizable Themes](#customizable-themes)
-  - [Command-Line Interface](#command-line-interface)
-- [FAQs](#faqs)
-- [Troubleshooting](#troubleshooting)
 
 ## Features
 
@@ -59,6 +52,21 @@ MCBotLauncher is a sophisticated GUI application for launching Minecraft bots wi
 3. **Start the Bot**: Click the `Run` button to initiate the attack.
 4. **Stop the Bot**: Click the `Stop` button to terminate the attack. This emulates a Ctrl+C command.
 
+
+
+### Disclaimer
+
+Disclaimer: This tool is intended for educational purposes only. It is designed to be used by server administrators to test the robustness and security of their own servers. Any unauthorized use of this tool on servers you do not own or have permission to test is strictly prohibited. The author does not consent to any malicious use of this tool and is not responsible for any damages caused by improper use.
+
+
+### Acknowledgements
+- #Launch4j for wrapping Java applications into Windows native executables.
+- #Minecraft for the game platform.
+
+
+
+
+
 ### Example
 
 ```plaintext
@@ -67,3 +75,5 @@ Protocol: 754 (1.16.5)
 Method: botjoiner
 Seconds: 60
 CPS: 10
+
+
